@@ -1,0 +1,5 @@
+fantasyLeagueID	name	dateCreated	commissionerID
+0001	Washington Premiership	8-Aug-07	medmiston89
+0002	LA Liga	9-Aug-07	beducalane90
+0003	UW:T	10-Aug-07	eeide23
+0004	Seattle Division One	11-Aug-07	sfinch34

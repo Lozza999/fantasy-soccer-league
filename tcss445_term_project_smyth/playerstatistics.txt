@@ -1,0 +1,13 @@
+playerID	gameID	goalsScored	assists	goalsConceeded	shotsSaved	penaltySaved	penaltyMissed	yellowCards	redCards	started	played	
+000009	00000009			4	3					Yes	90	Green
+000253	00000010			0							90	Boyce
+000123	00000008			0							90	Jagielka
+000249	00000009										90	Nosworthy
+000364	00000006										90	Bentley
+000351	00000005	1	1	0							65	Gerrard
+000546	00000010										90	Adebayor
+000588	00000007										90	Benjani
+000253	00000001			0							90	Boyce
+000123	00000003										90	Jagielka
+000351	00000002	1	1	1							180	Gerrard
+000588	00000001										90	Benjani

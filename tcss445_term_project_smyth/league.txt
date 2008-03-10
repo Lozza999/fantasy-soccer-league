@@ -1,0 +1,15 @@
+leagueID	name
+0001	English Premier League
+0002	Spanish La Liga
+0003	Spanish Segunda
+0004	Italian Serie A
+0005	Italian Serie B
+0006	German Bundesliga 1
+0007	German Bundesliga 2
+0008	French Ligue 1
+0009	French Ligue 2
+0010	Scottish Premier League
+0011	Dutch Eredivisie
+0012	Dutch Eerste Divisie
+0013	Portuguese Liga
+0014	Major League Soccer
