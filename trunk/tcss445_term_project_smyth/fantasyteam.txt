@@ -1,15 +1,15 @@
 fantasyTeamID	name	captain	value	managerID
-0000001	Chicago FC	Drogba	100	medmiston89
-0000002	South Sound Rangers	van Persie	101.2	beducalane90
-0000003	Eastern United	Ronaldo	99.8	eeide23
-0000004	Tacoma Titans	Lampard	103.2	sfinch34
-0000005	Bellevue FC	Eboue	99.9	tflaherty56
-0000006	Bellingham FC	Lampard	101.1	rfoster67
-0000007	FC Super Eashhh	Ronaldo	98.7	shansen78
-0000008	MAD MAN UTD	Fabregas	102.9	bhinton89
-0000009	BERBATOV UTD	Terry	101.7	mjohnson98
-0000010	Curry Hill United	Cech	100.4	jlawrence87
-0000011	Dan's Destroyers	Terry	101.8	dmaki76
-0000012	Shadwell Army	Gerrard	99.8	jmarshall65
-0000013	Kings of Murphy	Tevez	102.0	smattson56
-0000014	Liverpublicans	Adebayor	100.2	bmiller97
+1	Chicago FC	Drogba	1000	15
+2	South Sound Rangers	van Persie	1012	16
+3	Eastern United	Ronaldo	998	17
+4	Tacoma Titans	Lampard	1032	4
+5	Bellevue FC	Eboue	999	5
+6	Bellingham FC	Lampard	1011	6
+7	FC Super Eashhh	Ronaldo	987	7
+8	MAD MAN UTD	Fabregas	1029	8
+9	BERBATOV UTD	Terry	1017	9
+10	Curry Hill United	Cech	1004	10
+11	Dan's Destroyers	Terry	1018	11
+12	Shadwell Army	Gerrard	998	12
+13	Kings of Murphy	Tevez	1020	13
+14	Liverpublicans	Adebayor	1002	14
