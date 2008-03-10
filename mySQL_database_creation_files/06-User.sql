@@ -4,7 +4,7 @@ SET FOREIGN_KEY_CHECKS = 0;
 
 DROP TABLE IF EXISTS `User`;
 CREATE TABLE  `User` (
-  `userID`   	int(15) NOT NULL,
+  `userID`   	varchar(15) NOT NULL,
   `password` 	varchar(15) NOT NULL,
   `email`	varchar(60),
   `fName` 	varchar(20),

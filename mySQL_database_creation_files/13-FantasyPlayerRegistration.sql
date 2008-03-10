@@ -1,4 +1,4 @@
-USE fantasyfootball;
+playerIDUSE fantasyfootball;
 
 SET FOREIGN_KEY_CHECKS = 0;
 
