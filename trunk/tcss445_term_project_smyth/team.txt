@@ -1,0 +1,21 @@
+teamID	name	leagueID
+00001	Arsenal	0001
+00002	Aston Villa	0001
+00003	Birmingham	0001
+00004	Blackburn	0001
+00005	Bolton	0001
+00006	Chelsea	0001
+00007	Derby County	0001
+00008	Everton	0001
+00009	Fulham	0001
+00010	Liverpool	0001
+00011	Manchester City	0001
+00012	Manchester United	0001
+00013	Middlesbrough	0001
+00014	Newcastle	0001
+00015	Portsmouth	0001
+00016	Reading	0001
+00017	Sunderland	0001
+00018	Tottenham	0001
+00019	West Ham United	0001
+00020	Wigan Athletic	0001
