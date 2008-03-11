@@ -2,15 +2,15 @@ USE fantasyfootball;
 
 SET FOREIGN_KEY_CHECKS = 0;
 
-DROP TABLE IF EXISTS `SystemAdministrator`;
-CREATE TABLE  `SystemAdministrator` (
-  `adminID`   	int(15) NOT NULL,
+DROP TABLE IF EXISTS `TeamManager`;
+CREATE TABLE  `TeamManager` (
+  `managerID`  	int(15) NOT NULL,
 
-  KEY `adminToUser` (`adminID`),
-  CONSTRAINT `adminToUser` FOREIGN KEY (`adminID`) REFERENCES `User`(`userID`) 
+  KEY `managerToUser` (`managerID`),
+  CONSTRAINT `managerToUser` FOREIGN KEY (`managerID`) REFERENCES `User`(`userID`) 
   ON DELETE CASCADE ON UPDATE CASCADE,
 
-PRIMARY KEY (`adminID`)
+PRIMARY KEY (`managerID`)
 ) ENGINE=InnoDB;
 
 SET FOREIGN_KEY_CHECKS = 1;
